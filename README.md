@@ -7,7 +7,7 @@ This repository contains research papers I have read and implemented, along with
 
 ## Papers Implemented
 
-### 1. **Trend Analysis of Climate Time Series: A Review of Methods**  
+- 1. [Trend Analysis of Climate Time Series: A Review of Methods](https://www.sciencedirect.com/science/article/pii/S0012825218303726)  
    - **Author**: Manfred Mudelsee  
    - **Description**:  
      This paper reviews statistical methods for analyzing climate time series, focusing on trend detection in global climate data. My implementation and commentary include:
