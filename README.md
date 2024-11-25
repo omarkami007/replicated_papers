@@ -13,5 +13,9 @@ This repository contains research papers I have read and implemented, along with
        - Traditional and non-linear regression models
        - Change point detection
        - Bootstrap resampling
-
+2. **[Understanding Hyperdimensional Computing for Parallel Single-Pass Learning](https://proceedings.neurips.cc/paper_files/paper/2022/file/080be5eb7e887319ff30c792c2cbc28c-Paper-Conference.pdf)**
+   - **Authors**: Tao Yu, Yichi Zhang,  Zhiru Zhang,  Christopher De Sa.
+   - **Description**:
+     
+   
 
