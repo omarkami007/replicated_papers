@@ -1,7 +1,7 @@
 # Climate Time Series Research Repository
 
 ## Overview
-This repository contains research papers I have read and implemented, along with my commentary and analysis. It serves as a resource for understanding and exploring various methodologies in climate data analysis.
+This repository contains research papers I have read and implemented, along with my commentary and analysis. It serves as a resource for understanding and exploring machine learning and statistics.
 
 ---
 
