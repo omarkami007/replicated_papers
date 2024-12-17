@@ -9,7 +9,6 @@ This repository contains research papers I have read and implemented, along with
    - **Author**: Manfred Mudelsee  
    - **Description**:  
      This paper reviews statistical methods for analyzing climate time series, focusing on trend detection in global climate data. My implementation and commentary include:
-     - **Key Techniques**:
        - Traditional and non-linear regression models
        - Change point detection
        - Bootstrap resampling
@@ -18,7 +17,7 @@ This repository contains research papers I have read and implemented, along with
    - **Description**:
       This project explores Hyperdimensional Computing (HDC), leveraging Random Fourier Features (RFF) initialization and Vector Symbolic Architectures (VSA). 
 
-      The key objectives of this project include:
+      What I did:
       1. **Implementation**: Developed the HDC method and extended it to the VSA method.
       2. **Experimentation**: 
          - Applied RFF initialization to enhance expressivity.
