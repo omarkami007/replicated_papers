@@ -3,7 +3,7 @@ This repository contains research papers I have read and implemented, along with
 
 ---
 
-## Implemented Papers
+## Papers Implemented
 
 1. **[Trend Analysis of Climate Time Series: A Review of Methods](https://www.sciencedirect.com/science/article/pii/S0012825218303726)**
    - **Author**: Manfred Mudelsee  
